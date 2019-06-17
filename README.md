@@ -1,3 +1,3 @@
 # lootoscz.github.io
 
-Personal website
+Portfolio Website
